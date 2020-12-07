@@ -1,2 +1,2 @@
-# gister-zsh-theme
-![](gister-zsh-theme.gif)
+# natural-zsh-theme
+![](natural-zsh-theme.gif)
